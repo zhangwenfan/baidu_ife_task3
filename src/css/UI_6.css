@@ -1,0 +1,23 @@
+.bk {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1000px;
+  background-color: #beb9ff;
+  z-index: 2; }
+
+.floatWindow {
+  top: 50%;
+  left: 50%;
+  padding-left: 20px;
+  line-height: 40px;
+  background-color: #5c74ff;
+  z-index: 4; }
+
+.window {
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #aaaaaa;
+  padding-left: 20px; }
+
+/*# sourceMappingURL=UI_6.css.map */

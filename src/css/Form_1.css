@@ -1,0 +1,27 @@
+.button {
+  color: white;
+  background-color: #5c74ff;
+  border: 1px solid black;
+  width: 60px;
+  height: 28px;
+  font-size: 10pt;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; }
+
+.text {
+  font-size: 12pt; }
+
+.input {
+  width: 160px;
+  height: 24px;
+  border: 1px solid black; }
+
+.wrong {
+  color: red;
+  font-size: 12pt; }
+
+.right {
+  color: green;
+  font-size: 12pt; }
+
+/*# sourceMappingURL=Form_1.css.map */
